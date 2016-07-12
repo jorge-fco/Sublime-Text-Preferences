@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"AngularJS",
+		"Autoprefixer",
+		"Color Highlighter",
+		"Color Scheme - saulhudson",
+		"CSS Snippets",
+		"HTML Extended",
+		"HTML Snippets",
+		"HTML5",
+		"HTMLAttributes",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"Seti_UI",
+		"SublimeLinter",
+		"SyntaxHighlighter Reloaded Color Scheme",
+		"Theme - Soda"
+	]
+}
