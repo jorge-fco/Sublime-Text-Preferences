@@ -7,6 +7,7 @@
 	[
 		"1337 Color Scheme",
 		"3024 Color Scheme",
+		"All Autocomplete",
 		"AngularJS",
 		"Autoprefixer",
 		"Color Highlighter",
@@ -23,6 +24,7 @@
 		"Seti_UI",
 		"SublimeLinter",
 		"SyntaxHighlighter Reloaded Color Scheme",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TrailingSpaces"
 	]
 }
