@@ -6,7 +6,7 @@ Settings and preferences Sublime Text 3
 Sublime Text 3 | [Package Control](https://packagecontrol.io/installation#st3)
 
 # Snippets
-Create grids in Bootstrap
+Create snippet sublime Grids in **Bootstrap**
 
 ```
 	<snippet>
@@ -23,7 +23,20 @@ Create grids in Bootstrap
 	</snippet>
 ```
 
+# Install Package and Plugins
+command and shortcuts (Ctrl + Shift + P) -> (**Package Control - Install Package**)
+
+# Configuration and Preferences
+User preferences for settings sublime text (**Preferences -> Settings - User**)
+
 # Themes
+## :open_file_folder: Seti UI
 View plugin and documentation official [Seti_UI](https://packagecontrol.io/packages/Seti_UI)
 
 ![image](https://github.com/jorgefrac/Sublime-Text-Preferences/blob/master/1.png)
+
+
+## :open_file_folder: Material Theme
+Material Theme for Sublime Text view plugin and documentation official [Material-Theme](https://github.com/equinusocio/material-theme)
+
+![image](https://github.com/jorgefrac/Sublime-Text-Preferences/blob/master/2.gif)
